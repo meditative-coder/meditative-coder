@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meditative-coder
 - 👀 I’m interested in python, machine learning and deep learning projects
-- 🌱 I’m currently learning backend using django, flask and chatbot using open source Rasa
+- 🌱 I am currently deep diving into recent state of the art technologies emerging in AI market.
 - 💞️ I’m looking to collaborate on python
 - 📫 Reach me at ankitpysde@gmail.com
 
